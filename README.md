@@ -22,8 +22,8 @@
     <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/c-plus-plus.png"/>
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/biancafernandesnascimento/"><img width="130px" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-    <a href="bianca.fernandes048@gmail.com"><img width="130px" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+    <a href="https://www.linkedin.com/in/biancafernandesnascimento/" target="_blank"><img width="130px" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:bianca.fernandes048@gmail.com" target="_blank"><img width="130px" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <br>
     <br>
     <br>
