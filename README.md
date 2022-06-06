@@ -15,7 +15,8 @@
     <br>
     <br>
     
-    <img align="right" src="https://i.picasion.com/pic92/502ad82775a9ef2eaa26bb0a7ff97c5c.gif" width="150px" height="200px" alt="https://picasion.com/">
+ <!-- https://picasion.com/ -->
+    <img src="https://i.picasion.com/pic92/502ad82775a9ef2eaa26bb0a7ff97c5c.gif" width="150px" height="200px">
     <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/html.png">
     <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/css.png">
     <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/js.png">
