@@ -9,10 +9,9 @@
  ##
   
 <div>
-  <h2>I love to create sites and I'm always studing to improve my development habilitys...
-  Until now I've  already used:</h2>
+  <h2>I love to create sites and I'm always studing to improve my development habilitys... <br> Until now I've  already used:</h2>
   <br>
-  <div style="display: inline_block">
+<div style="display: inline_block">
     <br>
     <br>
     
@@ -28,7 +27,7 @@
     <br>
     <br>
     <br>
-  </div>
+ </div>
   
   ##
   
