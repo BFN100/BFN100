@@ -16,12 +16,12 @@
       <br>
 
       <!-- https://picasion.com/ -->
-      <img src="https://i.picasion.com/pic92/502ad82775a9ef2eaa26bb0a7ff97c5c.gif" width="150px" height="200px" />
+      <img width="150px" height="200px" src="https://i.picasion.com/pic92/502ad82775a9ef2eaa26bb0a7ff97c5c.gif" >
       <br>
-      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/html.png" />
-      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/css.png" />
-      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/js.png" />
-      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/c-plus-plus.png" />
+      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/html.png" >
+      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/css.png" >
+      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/js.png" >
+      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/c-plus-plus.png" >
       <br>
       <br>
       <a href="https://www.linkedin.com/in/biancafernandesnascimento/" target="_blank"><img width="130px" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
