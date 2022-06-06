@@ -1,4 +1,4 @@
-<h1>Hii There! I'm Bianca Fernandes Nascimento, developer passionate about design, web and customer experience 😄</h1>
+<h1 align="center">Hii There! I'm Bianca Fernandes Nascimento, developer passionate about design, web and customer experience 😄</h1>
 <br>
  <div align="center">
   <a href="https://github.com/BFN100">
@@ -6,12 +6,10 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFN100&layout=compact&langs_count=7&theme=dracula">
 </div>
   
- ##
-  
 <div>
-        <h2>I love to create sites and I'm always studing to improve my development habilitys... <br> Until now I've already used:</h2>
+        <h2 align="center">I love to create sites and I'm always studing to improve my development habilitys... <br> Until now I've already used:</h2>
         <br>
-        <div style="display: inline_block">
+        <div align="center">
             <br>
             <br>
 
@@ -32,5 +30,4 @@
         </div>
     </div>
  
-  ##
   
