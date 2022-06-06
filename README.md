@@ -8,29 +8,7 @@
   
  ##
  
-<div>
-  <h2 align="center">I love to create sites and I'm always studing to improve my development habilitys... <br> Until now I've already used:</h2>
-  <br>
-  <div align="center">
-      <br>
-      <br>
 
-      <!-- https://picasion.com/ -->
-      <img width="150px" height="200px" src="https://i.picasion.com/pic92/502ad82775a9ef2eaa26bb0a7ff97c5c.gif" >
-      <br>
-      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/html.png" >
-      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/css.png" >
-      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/js.png" >
-      <img width="80px" height="60px" src="https://img.icons8.com/color/96/000000/c-plus-plus.png" >
-      <br>
-      <br>
-      <a href="https://www.linkedin.com/in/biancafernandesnascimento/" target="_blank"><img width="130px" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="mailto:bianca.fernandes048@gmail.com" target="_blank"><img width="130px" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <br>
-      <br>
-      <br>
- </div>
-</div>
  
  ##
  
