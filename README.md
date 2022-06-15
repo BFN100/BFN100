@@ -33,8 +33,10 @@
       <a href="mailto:bianca.fernandes048@gmail.com" target="_blank">
         <img width="130px" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
- 
+ <br>
  <h2> I am always trying to learn new languages and develop new skills. Soon I will put new codes here. </h2>
+ <br>
+ <br>
  
 </div>
  
