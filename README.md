@@ -27,7 +27,7 @@
   <img src="https://i.picasion.com/pic92/502ad82775a9ef2eaa26bb0a7ff97c5c.gif" width="150px" height="200px" />
   <br>
   <br>
-      <a href="https://www.linkedin.com/in/biancafernandesnascimento/" target="_blank">
+      <a href="https://www.linkedin.com/in/bianca-fernandes-nascimento/" target="_blank">
         <img width="130px" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="mailto:bianca.fernandes048@gmail.com" target="_blank">
