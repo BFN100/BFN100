@@ -12,9 +12,7 @@
   <h2> I love to create sites and I'm always studing to improve my development habilitys... <br> Until now I've already used: </h2>
   <br>
   <br>
-  <!-- https://picasion.com/ -->
-  <img src="https://i.picasion.com/pic92/502ad82775a9ef2eaa26bb0a7ff97c5c.gif" width="150px" height="200px" />
-  <br>
+  
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/undefined/external-html-computer-programming-flaticons-flat-flat-icons.png"/>
   <img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/undefined/external-css-web-seo-prettycons-flat-prettycons.png"/>
   <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
@@ -23,6 +21,10 @@
   <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo-2.png"/>
   <img src="https://img.icons8.com/fluency/48/undefined/swift.png"/>
  
+  <br>
+  <br>
+  <!-- https://picasion.com/ -->
+  <img src="https://i.picasion.com/pic92/502ad82775a9ef2eaa26bb0a7ff97c5c.gif" width="150px" height="200px" />
   <br>
   <br>
       <a href="https://www.linkedin.com/in/biancafernandesnascimento/" target="_blank">
