@@ -9,7 +9,7 @@
  ##
  
 <div align="center">
-  <h2> I love to create sites and I'm always studing to improve my development habilitys... <br> Until now I've already used: </h2>
+  <h2> I'm always looking to learn more, soon I'll post more codes here, these are the languages I know for now:</h2>
   <br>
   <br>
   
