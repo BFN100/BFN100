@@ -9,7 +9,7 @@
  ##
  
 <div align="center">
-  <h2> I'm always looking to learn more, soon I'll post more codes here, these are the languages I know for now:</h2>
+  <h2> This is my knowledge so far: </h2>
   <br>
   <br>
   
@@ -33,6 +33,8 @@
       <a href="mailto:bianca.fernandes048@gmail.com" target="_blank">
         <img width="130px" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
+ 
+ <h2> I am always trying to learn new languages and develop new skills. Soon I will put new codes here. </h2>
  
 </div>
  
