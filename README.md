@@ -15,6 +15,8 @@
   <br>
   <br>
   
+  <h2><b>Design and Prototype</b></h2>
+  
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/undefined/external-html-computer-programming-flaticons-flat-flat-icons.png"/>
   <img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/undefined/external-css-web-seo-prettycons-flat-prettycons.png"/>
   <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
