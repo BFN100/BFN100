@@ -89,9 +89,6 @@ I'm interested in understanding not only **how technology works**, but also **ho
       <a href="https://www.linkedin.com/in/bianca-fernandes-nascimento/" target="_blank">
         <img width="130px" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
-      <a href="mailto:bianca.fernandes048@gmail.com" target="_blank">
-        <img width="130px" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
  <br>
 </div>
  
